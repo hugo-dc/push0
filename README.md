@@ -10,16 +10,16 @@ The analysis of the provided data is done in a Jupyter Notebook.
 
 - Move to the `notebook` directory.
 
-    $ cd ./notebook
+      $ cd ./notebook
 
 - Create a Python virtual environment (optional):
 
-    $ virtualenv -p python3 venv
+      $ virtualenv -p python3 venv
 
 - Initialize virtual environment:
 
 
-    $ . venv/bin/activate
+      $ . venv/bin/activate
 
 - Install requirements:
 
