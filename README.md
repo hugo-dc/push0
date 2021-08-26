@@ -8,7 +8,12 @@ The analysis of the provided data is done in a Jupyter Notebook.
 
 ### Instructions
 
-- Move to the `notebook` directory.
+- Clone and move to the new directory:
+
+      $ git clone https://github.com/hugo-dc/push0.git
+      $ cd push0
+
+- Move to the `notebook` directory:
 
       $ cd ./notebook
 
