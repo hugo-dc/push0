@@ -23,10 +23,10 @@ The analysis of the provided data is done in a Jupyter Notebook.
 
 - Install requirements:
 
-    $ pip install -r requirements.txt
+      $ pip install -r requirements.txt
 
 - Start Jupyter Notebook
 
-    $ jupyter-notebook
+      $ jupyter-notebook
 
 
