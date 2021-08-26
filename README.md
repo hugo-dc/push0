@@ -17,7 +17,7 @@ The analysis of the provided data is done in a Jupyter Notebook.
 
       $ cd ./notebook
 
-- Create and initializa a Python virtual environment (optional):
+- Create and initialize a Python virtual environment (optional):
 
       $ virtualenv -p python3 venv
       $ . venv/bin/activate
